@@ -7,7 +7,7 @@ Are you looking to take your OSRS experience to the next level without resorting
 
 I'm a passionate OSRS player who developed my own plugins during the OpenOSRS era, such as one-click GOTR, one-click wintertodt, one-click tempoross, gauntlet-helper, and more.
 
-Kuri Plugins are overpowered plugins for RuneLite that help your gameplay
+Kuri Plugins are overpowered plugins for RuneLite that help your gameplay.
 
 But Kuri Plugins isn't just about enhancing the game. It's about building a community of OSRS players who love to take their gameplay to the next level. With Kuri Plugins, you can connect with other like-minded gamers, share tips and tricks, and enjoy the game together.
 
