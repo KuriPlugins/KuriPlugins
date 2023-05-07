@@ -13,10 +13,10 @@ But Kuri Plugins isn't just about enhancing the game. It's about building a comm
 
 ### What You Can Expect from Kuri Plugins
 - Kuri Click Shop: One-click shopping at any shop in OSRS.
-- Kuri Click Combine: One-click combining of items such as Herblore potions and cooking ingredients.
-- Kuri Click GOTR: Complete Guardians of the rift minigame by spamming left click anywhere on the screen.
-- Kuri Click Wintertodt: Complete Wintertodt minigame by spamming left click anywhere on the screen.
-- Kuri Click Tempoross: Complete Tempoross minigame by spamming left click anywhere on the screen.
+- Kuri Click Combine: One-click combining of items such as Herblore and Cooking ingredients.
+- Kuri Click GOTR: One-click Guardians of the rift minigame.
+- Kuri Click Wintertodt: One-click Wintertodt minigame.
+- Kuri Click Tempoross: One-click Tempoross minigame.
 - Gauntlet Helper: An all-in-one tool for the Gauntlet and Corrupted Gauntlet.
 - Zulrah Helper: An all-in-one tool for the Zulrah boss.
 - OpenOSRS ported plugins
