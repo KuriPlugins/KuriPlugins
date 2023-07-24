@@ -8,7 +8,7 @@ The goal is to make OSRS a more chill and laid back experience for the long and 
 
 The goal is not to make plugins fully automated, but rather bring most skills/activities focus level to a maximum similar to what thieving is.
 
-### What You Can Expect from Kuri Plugins
+### A Few Plugins You Can Expect from Kuri Plugins
 - Kuri Click Shop: One-click shopping at any shop in OSRS.
 - Kuri Click Combine: One-click combining of items such as Herblore and Cooking ingredients.
 - Kuri Click GOTR: One-click Guardians of the Rift minigame.
