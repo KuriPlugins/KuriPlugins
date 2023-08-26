@@ -30,4 +30,4 @@ Join us and help shape the future of Kuri Plugins. If you're interested in becom
 
 Looking forward to hear from you!
 
-![](https://cdn.discordapp.com/icons/1094266705909403749/db23b33e8f99ea4e5747b2863725cf08.webp?size=96)
+![](https://cdn.discordapp.com/attachments/1096861114068893829/1144592407418114048/K_20DPI.png)
