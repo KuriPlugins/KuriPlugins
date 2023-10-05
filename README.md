@@ -1,6 +1,6 @@
 # Kuri Plugins
 
-[![Discord](https://img.shields.io/discord/1094266705909403749?color=8532cb&label=Join%20our%20Discord%20server&logo=discord&logoColor=white)](https://discord.gg/3bhXYtd8bt)
+[![Discord](https://img.shields.io/discord/1094266705909403749?color=8532cb&label=Join%20Discord&logo=discord&logoColor=white)](https://discord.gg/3bhXYtd8bt)
 
 Having already developed plugins during the OpenOSRS times, like one-click-wintertodt, one-click-tempoross, one-click-gotr, and gauntlet-helper, among others, I've now decided to start Kuri Plugins.
 
