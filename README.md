@@ -22,12 +22,3 @@ Don't expect to see plugins fully automated, the main objective of Kuri Plugins 
 Kuri Plugins goal is to allow you to do side tasks like watch YouTube, Netflix, or even read a book while doing repetitive tasks on OSRS. Our plugins are easy to use and fully customizable, so you can tailor your experience to your liking.
   
 If this interests you and you would like to be part of a community of OSRS players that share the same mindset, join us at ✨ _[discord](https://discord.gg/3bhXYtd8bt)_ ✨
-
-## Closed-Beta Launch
-We're thrilled to announce that we're now accepting applications for our closed beta phase. As a beta tester, you'll get exclusive access to our custom plugin loader and a range of game-changing plugins that will make your gameplay a lot more chill and laid back.
-
-Join us and help shape the future of Kuri Plugins. If you're interested in becoming a beta tester, head over to our ✨ _[discord](https://discord.gg/3bhXYtd8bt)_ ✨ and tell us about yourself, your experience with RuneLite plugins, and why you're fit to be a closed beta tester.
-
-Looking forward to hear from you!
-
-![](https://cdn.discordapp.com/attachments/1096861114068893829/1144592407418114048/K_20DPI.png)
